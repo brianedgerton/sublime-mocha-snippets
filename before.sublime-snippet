@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-before${1:Each}(function (${2:done}) {
+before${1:Each}( function ( ${2:done} ) {
 	${3:}
-});
+} );
 ]]></content>
-	<tabTrigger>befr</tabTrigger>
+	<tabTrigger>before</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
